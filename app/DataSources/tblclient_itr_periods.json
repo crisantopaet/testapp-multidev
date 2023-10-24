@@ -60,6 +60,7 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "psith_tblclient_itr_period",
+    "MaxGetRowsCount": 500,
     "Name": "tblclient_itr_periods",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "Owner",

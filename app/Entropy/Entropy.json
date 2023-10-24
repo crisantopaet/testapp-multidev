@@ -1,26 +1,106 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 15,
+    "galleryTemplate2": 6,
+    "Host": 3,
+    "Image2": 8,
+    "ITRPeriod": 5,
+    "lblPID": 13,
+    "lblStatus": 14,
+    "Main": 4,
+    "NextArrow1": 9,
+    "Rectangle1": 7,
+    "Separator1": 12,
+    "Subtitle2": 11,
+    "Title2": 10
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:38:51",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "bee9ed10-ebd6-4f23-b0f1-a27eef70d4e5": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/5cd1a1a24f5741af954bab26e967a7f7\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 4,
+    "DropDownSample": 5,
+    "GenerateSTITest": 0,
+    "tblclient_itr_periods": 6,
+    "tblclient_itr_periods\\default.cds_psith_tblclient_itr_period_views": 3,
+    "tblclient_itr_periods\\psith_tblclient_itr_period_statecode": 1,
+    "tblclient_itr_periods\\psith_tblclient_itr_period_statuscode": 2
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 5,
+    "gallery": 0,
+    "icon": 3,
+    "image": 2,
+    "label": 4,
+    "rectangle": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "galleryTemplate2": {},
+    "Host": {},
+    "Image2": {},
+    "ITRPeriod": {},
+    "lblPID": {},
+    "lblStatus": {},
+    "Main": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Separator1": {},
+    "Subtitle2": {},
+    "Title2": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 7,
+    "galleryTemplate2": 8,
+    "Host": 0,
+    "Image2": 10,
+    "ITRPeriod": 4,
+    "lblPID": 5,
+    "lblStatus": 6,
+    "Main": 3,
+    "NextArrow1": 11,
+    "Rectangle1": 9,
+    "Separator1": 14,
+    "Subtitle2": 13,
+    "Title2": 12
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0344866,
+    "ControlCount": {
+      "button": 1,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 4,
+      "rectangle": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.6830843
+  },
+  "WasLocalDatabaseReferencesEmpty": false
 }
