@@ -18,11 +18,11 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:19:44",
+  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:38:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "8476fff1-89fa-45e7-948a-801fedfd4051": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/shared-commondataser-ce94af60-de7a-4d96-9dc3-927d035d62a3\"",
-    "f4a31051-58b8-40b5-9981-c228a99a650e": "\"/providers/Microsoft.PowerApps/apis/shared_logicflows/connections/0C15A1F94A7A4740983B0AB6551EF52D-778A9B4FB6CA4266\""
+    "8476fff1-89fa-45e7-948a-801fedfd4051": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/5cd1a1a24f5741af954bab26e967a7f7\"",
+    "f4a31051-58b8-40b5-9981-c228a99a650e": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/0c15a1f94a7a4740983b0ab6551ef52d-778a9b4fb6ca4266\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -87,7 +87,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1338052,
+    "AnalysisLoadTime": 0.1176637,
     "ControlCount": {
       "button": 1,
       "gallery": 1,
@@ -98,7 +98,7 @@
       "rectangle": 2,
       "screen": 1
     },
-    "DeserializationLoadTime": 1.7347928
+    "DeserializationLoadTime": 2.506775
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
