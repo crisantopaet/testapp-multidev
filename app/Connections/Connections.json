@@ -1,19 +1,5 @@
 {
-  "8476fff1-89fa-45e7-948a-801fedfd4051": {
-    "connectionRef": {
-      "displayName": "Microsoft Dataverse",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/commondataserviceforapps/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_commondataserviceforapps"
-    },
-    "datasets": {},
-    "dataSources": [],
-    "dependencies": {},
-    "dependents": [
-      "f4a31051-58b8-40b5-9981-c228a99a650e"
-    ],
-    "id": "8476fff1-89fa-45e7-948a-801fedfd4051"
-  },
-  "f4a31051-58b8-40b5-9981-c228a99a650e": {
+  "11c4781d-9ae3-4bfa-b431-9bbd642f5b8d": {
     "connectionRef": {
       "displayName": "Logic flows",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/logicflows/icon.png",
@@ -36,9 +22,23 @@
       "GenerateSTITest"
     ],
     "dependencies": {
-      "shared_commondataserviceforapps": "8476fff1-89fa-45e7-948a-801fedfd4051"
+      "shared_commondataserviceforapps": "bee9ed10-ebd6-4f23-b0f1-a27eef70d4e5"
     },
     "dependents": [],
-    "id": "f4a31051-58b8-40b5-9981-c228a99a650e"
+    "id": "11c4781d-9ae3-4bfa-b431-9bbd642f5b8d"
+  },
+  "bee9ed10-ebd6-4f23-b0f1-a27eef70d4e5": {
+    "connectionRef": {
+      "displayName": "Microsoft Dataverse",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/commondataserviceforapps/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_commondataserviceforapps"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "11c4781d-9ae3-4bfa-b431-9bbd642f5b8d"
+    ],
+    "id": "bee9ed10-ebd6-4f23-b0f1-a27eef70d4e5"
   }
 }

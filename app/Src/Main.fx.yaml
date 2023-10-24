@@ -100,3 +100,9 @@ Main As screen:
         Y: =147
         ZIndex: =3
 
+    lblStatus As label:
+        Text: =ErrorKind.GeneratedValue
+        X: =690
+        Y: =290
+        ZIndex: =4
+

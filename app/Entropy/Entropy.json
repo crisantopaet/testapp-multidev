@@ -9,6 +9,7 @@
     "Image2": 8,
     "ITRPeriod": 5,
     "lblPID": 13,
+    "lblStatus": 15,
     "Main": 4,
     "NextArrow1": 9,
     "Rectangle1": 7,
@@ -18,11 +19,11 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:19:44",
+  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:36:52",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "8476fff1-89fa-45e7-948a-801fedfd4051": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/shared-commondataser-ce94af60-de7a-4d96-9dc3-927d035d62a3\"",
-    "f4a31051-58b8-40b5-9981-c228a99a650e": "\"/providers/Microsoft.PowerApps/apis/shared_logicflows/connections/0C15A1F94A7A4740983B0AB6551EF52D-778A9B4FB6CA4266\""
+    "11c4781d-9ae3-4bfa-b431-9bbd642f5b8d": "\"/providers/Microsoft.PowerApps/apis/shared_logicflows/connections/0C15A1F94A7A4740983B0AB6551EF52D-778A9B4FB6CA4266\"",
+    "bee9ed10-ebd6-4f23-b0f1-a27eef70d4e5": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/shared-commondataser-ce94af60-de7a-4d96-9dc3-927d035d62a3\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -57,6 +58,7 @@
     "Image2": {},
     "ITRPeriod": {},
     "lblPID": {},
+    "lblStatus": {},
     "Main": {},
     "NextArrow1": {},
     "Rectangle1": {},
@@ -74,6 +76,7 @@
     "Image2": 3,
     "ITRPeriod": 0,
     "lblPID": 8,
+    "lblStatus": 0,
     "Main": 0,
     "NextArrow1": 4,
     "Rectangle1": 2,
