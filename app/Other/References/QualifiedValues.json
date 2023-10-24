@@ -1,0 +1,25 @@
+{
+  "QualifiedValues": [
+    {
+      "Kind": "default.cds_psith_tblclient_itr_period_forms",
+      "Namespace": "tblclient_itr_periods (Forms)",
+      "Values": {
+        "Information": "2b235aab-9328-48a8-9591-bc960b069f8e"
+      }
+    },
+    {
+      "Kind": "default.cds_psith_tblclient_forms",
+      "Namespace": "tblclients (Forms)",
+      "Values": {
+        "Information": "1199902c-b319-4e8c-bf12-ace16f35a01e"
+      }
+    },
+    {
+      "Kind": "default.cds_psith_tblclient_itr_input_forms",
+      "Namespace": "tblclient_itr_inputs (Forms)",
+      "Values": {
+        "Information": "d7b7ba97-58b3-41f8-bc2a-e22397ad81ef"
+      }
+    }
+  ]
+}

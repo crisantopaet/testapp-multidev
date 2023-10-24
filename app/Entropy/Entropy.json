@@ -1,0 +1,104 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 14,
+    "galleryTemplate2": 6,
+    "Host": 3,
+    "Image2": 8,
+    "ITRPeriod": 5,
+    "Label1": 13,
+    "Main": 4,
+    "NextArrow1": 9,
+    "Rectangle1": 7,
+    "Separator1": 12,
+    "Subtitle2": 11,
+    "Title2": 10
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:10:16",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "72b88dce-8a53-4216-b475-33c14f84850f": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/shared-commondataser-ce94af60-de7a-4d96-9dc3-927d035d62a3\"",
+    "86f84fdb-944e-4dc3-829e-bfc5245c22ab": "\"/providers/Microsoft.PowerApps/apis/shared_logicflows/connections/0C15A1F94A7A4740983B0AB6551EF52D-778A9B4FB6CA4266\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 6,
+    "DropDownSample": 5,
+    "GenerateSTITest": 0,
+    "tblclient_itr_periods": 4,
+    "tblclient_itr_periods\\default.cds_psith_tblclient_itr_period_views": 3,
+    "tblclient_itr_periods\\psith_tblclient_itr_period_statecode": 1,
+    "tblclient_itr_periods\\psith_tblclient_itr_period_statuscode": 2
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 5,
+    "gallery": 0,
+    "icon": 3,
+    "image": 2,
+    "label": 4,
+    "rectangle": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "galleryTemplate2": {},
+    "Host": {},
+    "Image2": {},
+    "ITRPeriod": {},
+    "Label1": {},
+    "Main": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Separator1": {},
+    "Subtitle2": {},
+    "Title2": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 9,
+    "galleryTemplate2": 1,
+    "Host": 0,
+    "Image2": 3,
+    "ITRPeriod": 0,
+    "Label1": 8,
+    "Main": 0,
+    "NextArrow1": 4,
+    "Rectangle1": 2,
+    "Separator1": 7,
+    "Subtitle2": 6,
+    "Title2": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1338052,
+    "ControlCount": {
+      "button": 1,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 3,
+      "rectangle": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.7347928
+  },
+  "WasLocalDatabaseReferencesEmpty": false
+}

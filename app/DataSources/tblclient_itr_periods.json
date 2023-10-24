@@ -1,0 +1,101 @@
+[
+  {
+    "DisplayName": "tblclient_itr_periods (Views)",
+    "Name": "_psith_tblclient_itr_period_views",
+    "RelatedEntityName": "tblclient_itr_periods",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "08caa481-d5ed-47f4-9382-5ec3bbf62d5d": "tblclient_itr_period Lookup View",
+      "27193808-9690-4be1-8377-1984c5ef09a0": "tblclient_itr_period Associated View",
+      "40c71461-368c-47ed-8dce-80149c96178a": "Inactive tblclient_itr_periods",
+      "51466975-1e3e-43ea-8e9d-db30012c6914": "tblclient_itr_period Advanced Find View",
+      "9b504137-fd44-4ce2-8aa9-b6986e6bbcaf": "Active tblclient_itr_periods"
+    }
+  },
+  {
+    "DisplayName": "Status (tblclient_itr_periods)",
+    "Name": "psith_tblclient_itr_period_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "Active",
+      "1": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "tblclient_itr_periods"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "tblclient_itr_periods",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Status Reason (tblclient_itr_periods)",
+    "Name": "psith_tblclient_itr_period_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "Active",
+      "2": "Inactive"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "tblclient_itr_periods"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "tblclient_itr_periods",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "psith_tblclient_itr_periods",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "psith_tblclient_itr_period",
+    "Name": "tblclient_itr_periods",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "Owner",
+      "createdby": "Created By",
+      "createdon": "Created On",
+      "createdonbehalfby": "Created By (Delegate)",
+      "importsequencenumber": "Import Sequence Number",
+      "modifiedby": "Modified By",
+      "modifiedon": "Modified On",
+      "modifiedonbehalfby": "Modified By (Delegate)",
+      "overriddencreatedon": "Record Created On",
+      "owningbusinessunit": "Owning Business Unit",
+      "owningteam": "Owning Team",
+      "owninguser": "Owning User",
+      "psith_client_id": "client_id",
+      "psith_itr_period_name": "itr_period_name",
+      "psith_itrperiodid": "itr_period_id",
+      "psith_period_end_date": "period_end_date",
+      "psith_period_start_date": "period_start_date",
+      "psith_psith_tblclient_itr_input_itr_period_id_p": "tblclient_itr_inputs",
+      "psith_tblclient_itr_period_AsyncOperations": "System Jobs",
+      "psith_tblclient_itr_period_BulkDeleteFailures": "Bulk Delete Failures",
+      "psith_tblclient_itr_period_DuplicateBaseRecord": "Duplicate Records (psith_tblclient_itr_period_DuplicateBaseRecord)",
+      "psith_tblclient_itr_period_DuplicateMatchingRecord": "Duplicate Records (psith_tblclient_itr_period_DuplicateMatchingRecord)",
+      "psith_tblclient_itr_period_MailboxTrackingFolders": "Mailbox Auto Tracking Folders",
+      "psith_tblclient_itr_period_PrincipalObjectAttributeAccesses": "Field Sharing",
+      "psith_tblclient_itr_period_ProcessSession": "Process Sessions",
+      "psith_tblclient_itr_period_SyncErrors": "Sync Errors",
+      "psith_tblclient_itr_periodid": "tblclient_itr_period",
+      "statecode": "Status",
+      "statuscode": "Status Reason",
+      "timezoneruleversionnumber": "Time Zone Rule Version Number",
+      "utcconversiontimezonecode": "UTC Conversion Time Zone Code",
+      "versionnumber": "Version Number"
+    },
+    "PreferredName": "tblclient_itr_periods",
+    "Type": "NativeCDSDataSourceInfo"
+  }
+]
