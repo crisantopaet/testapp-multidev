@@ -1,104 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 14,
-    "galleryTemplate2": 6,
-    "Host": 3,
-    "Image2": 8,
-    "ITRPeriod": 5,
-    "lblPID": 13,
-    "Main": 4,
-    "NextArrow1": 9,
-    "Rectangle1": 7,
-    "Separator1": 12,
-    "Subtitle2": 11,
-    "Title2": 10
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/24/2023 06:38:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {
-    "8476fff1-89fa-45e7-948a-801fedfd4051": "\"/providers/microsoft.powerapps/apis/shared_commondataserviceforapps/connections/5cd1a1a24f5741af954bab26e967a7f7\"",
-    "f4a31051-58b8-40b5-9981-c228a99a650e": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/0c15a1f94a7a4740983b0ab6551ef52d-778a9b4fb6ca4266\""
-  },
+  "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 6,
-    "DropDownSample": 5,
-    "GenerateSTITest": 0,
-    "tblclient_itr_periods": 4,
-    "tblclient_itr_periods\\default.cds_psith_tblclient_itr_period_views": 3,
-    "tblclient_itr_periods\\psith_tblclient_itr_period_statecode": 1,
-    "tblclient_itr_periods\\psith_tblclient_itr_period_statuscode": 2
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 5,
-    "gallery": 0,
-    "icon": 3,
-    "image": 2,
-    "label": 4,
-    "rectangle": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Button1": {},
-    "galleryTemplate2": {},
-    "Host": {},
-    "Image2": {},
-    "ITRPeriod": {},
-    "lblPID": {},
-    "Main": {},
-    "NextArrow1": {},
-    "Rectangle1": {},
-    "Separator1": {},
-    "Subtitle2": {},
-    "Title2": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 9,
-    "galleryTemplate2": 1,
-    "Host": 0,
-    "Image2": 3,
-    "ITRPeriod": 0,
-    "lblPID": 8,
-    "Main": 0,
-    "NextArrow1": 4,
-    "Rectangle1": 2,
-    "Separator1": 7,
-    "Subtitle2": 6,
-    "Title2": 5
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.1176637,
-    "ControlCount": {
-      "button": 1,
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 1,
-      "image": 1,
-      "label": 3,
-      "rectangle": 2,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 2.506775
-  },
-  "WasLocalDatabaseReferencesEmpty": false
+  "TemplateVersions": {}
 }
