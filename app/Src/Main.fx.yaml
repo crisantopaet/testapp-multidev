@@ -85,7 +85,7 @@ Main As screen:
             Width: =4
             ZIndex: =6
 
-    Label1 As label:
+    lblPID As label:
         Text: =ITRPeriod.Selected.itr_period_id
         X: =665
         Y: =50
@@ -93,6 +93,7 @@ Main As screen:
 
     Button1 As button:
         Height: =48
+        OnSelect: =GenerateSTITest.Run(lblPID.Text)
         Text: ="Run Analytics"
         Width: =288
         X: =665

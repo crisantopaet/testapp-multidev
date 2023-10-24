@@ -14,6 +14,47 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Main.Button1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Main.Button1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 32,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "GenerateSTITest.Run(lblPID.Text)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Main",
+                "type": "Main.Button1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "1",
+              "0"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadArity",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Main.ITRPeriod.AccessibleLabel"
                 }
               ],
@@ -37,7 +78,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -67,7 +108,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 2
         }
       ],
       "tool": {
@@ -75,6 +116,20 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-ErrBadArity",
+              "messageStrings": {
+                "issue": {
+                  "text": "Invalid number of arguments: received {0}, expected {1}."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
             {
               "id": "acc-AccessibleLabelNeeded",
               "messageStrings": {
